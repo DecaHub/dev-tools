@@ -12,6 +12,7 @@
 * [Content Strategy Within The Design Process](https://www.ceros.com/blog/content-strategy-within-design-process/)
 * [Content Strategy for Mobile](https://abookapart.com/products/content-strategy-for-mobile)
 * [Content Strategy for the Web](http://contentstrategy.com)
+* [Content Strategy and Its Cousins](http://uxmag.com/articles/content-strategy-and-its-cousins)
 
 ## Generators
 
